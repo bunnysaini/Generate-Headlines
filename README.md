@@ -13,4 +13,5 @@ https://www.kaggle.com/benjaminawd/new-york-times-articles-comments-2020
 - Tensorflow
 
 # Result
+<img width="545" alt="image" src="https://user-images.githubusercontent.com/83510385/150752541-87678b49-70ac-4f71-ae5f-b3ce6c3b6a3b.png">
 
