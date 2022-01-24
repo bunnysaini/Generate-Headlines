@@ -1,4 +1,4 @@
-# Generate-Headlines
+# News Headlines Generator
 bunnysaini/Generate-Headlines
 
 # Goal
